@@ -15,5 +15,15 @@ public class Laborer implements Employee{
     public void setEmployeeName(String b){
         employeeNumber=b;
     }
+
+    public String safabc(String s, int d){
+        String sldkfj;
+        nameOfEmployee=s;
+        return "asdf";
+    }
+    //////////aksdfhaksjdfh
+
+
+    /////////
 }
 

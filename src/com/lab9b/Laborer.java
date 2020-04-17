@@ -16,9 +16,14 @@ public class Laborer implements Employee{
         employeeNumber=b;
     }
 
-    public void abc(String s, int d){
+    public String safabc(String s, int d){
+        String sldkfj;
         nameOfEmployee=s;
+        return "asdf";
     }
     //////////aksdfhaksjdfh
+
+
+    /////////
 }
 

@@ -16,7 +16,7 @@ public class Laborer implements Employee{
         employeeNumber=b;
     }
 
-    public void xyz(String s){
+    public void abc(String s, int d){
         nameOfEmployee=s;
     }
     //////////aksdfhaksjdfh

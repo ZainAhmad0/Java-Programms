@@ -12,6 +12,9 @@ public class Marks extends Student {
         totalMarks=0;
         avgMarks=0;
     }
+    {
+        System.out.println("Just testing ins block");
+    }
 
     public void inputMarks()
     {

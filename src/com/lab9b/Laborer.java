@@ -15,5 +15,10 @@ public class Laborer implements Employee{
     public void setEmployeeName(String b){
         employeeNumber=b;
     }
+
+    public void xyz(String s){
+        nameOfEmployee=s;
+    }
+    //////////aksdfhaksjdfh
 }
 
